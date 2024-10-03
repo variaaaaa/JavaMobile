@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rss_viewer</string>
+    <string name="xml_addr">https://www.sportskeeda.com/feed</string>
+</resources>
