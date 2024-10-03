@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\1\\.gradle\\daemon\\8.2\\com.example.lab2var5.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\1\\.gradle\\daemon\\8.2\\com.example.lab2var5.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\.gradle\\daemon\\8.2\\com.example.lab2var5.app-mergeDebugResources-30:\\layout\\fragment_1.xml",
+        "source": "C:\\Users\\1\\.gradle\\daemon\\8.2\\com.example.lab2var5.app-main-33:\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\.gradle\\daemon\\8.2\\com.example.lab2var5.app-mergeDebugResources-30:\\layout\\fragment_mass_converter_input.xml",
+        "source": "C:\\Users\\1\\.gradle\\daemon\\8.2\\com.example.lab2var5.app-main-33:\\layout\\fragment_mass_converter_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\1\\.gradle\\daemon\\8.2\\com.example.lab2var5.app-mergeDebugResources-30:\\layout\\fragment_mass_converter_result.xml",
+        "source": "C:\\Users\\1\\.gradle\\daemon\\8.2\\com.example.lab2var5.app-main-33:\\layout\\fragment_mass_converter_result.xml"
+    },
+    {
+        "merged": "com.example.lab2var5.app-mergeDebugResources-30:/layout/fragment_mass_converter_result.xml",
+        "source": "com.example.lab2var5.app-main-33:/layout/fragment_mass_converter_result.xml"
+    }
+]
