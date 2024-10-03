@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/yellow">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Введите данные" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Номер:" />
+    <EditText
+        android:id="@+id/editTextPhone"
+        android:layout_width="238dp"
+        android:layout_height="wrap_content"
+        android:hint="Phone number" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Имя:" />
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="239dp"
+        android:layout_height="wrap_content"
+        android:hint="Name" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Фамилия:" />
+    <EditText
+        android:id="@+id/editTextSurname"
+        android:layout_width="239dp"
+        android:layout_height="wrap_content"
+        android:hint="Surname" />
+
+    <Button
+        android:id="@+id/buttonRegistration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Registration" />
+
+</LinearLayout>
